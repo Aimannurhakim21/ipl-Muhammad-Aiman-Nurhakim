@@ -7,5 +7,4 @@ interface VehicleInterface {
 
     void refuel();
 
-    void openDoors();
 }
